@@ -1,4 +1,6 @@
-//
+/** 
+* TODO Add description of the solution
+**/
 function calculateChinesZodiac(arg) {
   let mapper;
   let year = [
